@@ -20,7 +20,7 @@ global pusher,session
 AudioSink = import_audio_sink()
 container_loaded = threading.Event()
 
-APPKEY = '9e602ad8af30dac92ff2'
+APPKEY = 'b3404c3790c2627cf777'
 CHANNEL = 'jukebox_channel'
 
 def print_usage(filename):
